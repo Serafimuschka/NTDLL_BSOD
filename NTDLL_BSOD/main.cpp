@@ -1,3 +1,11 @@
+// - - - - - >
+// NTDLL_BSOD Project
+// Author: kalterseele | January 2019
+// Summary: uses NT API and crashes your system with BSOD
+// ATTENTION: THAT CODE IS NOT MALWARE. The only goal of the
+// project is to show the hidden abilities of Windows
+// - - - - - >
+
 #include <Windows.h>
 #include <winnt.h>
 #include <winternl.h>
